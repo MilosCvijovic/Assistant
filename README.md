@@ -17,7 +17,8 @@ After wake up word it can greet the user by the time of the day.
 3. Sys (pip install os-sys 2.1.4)
     (import sys) - Turn off your assistant
 
-4. Time (import time) - Using for time sleep module
+4. Time (pip install time)
+    (import time) - Using for time sleep module
 
 5. Pywhatkit (pip install pywhatkit)
     (import pywhatkit) - Play songs on youtube
